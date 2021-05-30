@@ -1,23 +1,5 @@
 @import url(https://use.fontawesome.com/releases/v5.13.0/css/all.css);
 
-
-:root {
-    --accent-color:#00ff2b;
-    --health-color: var(--accent-color);
-    --ammo-color: #fff;
-    --premium-color: #ffffff;
-    --verified-color: #ffffff;
-    --menu-bg-color: rgba(15, 15, 15, .2);
-    --menu-bg-color-secondary: rgb(95 95 95 / 54%);
-    --ingame-bg-color: rgba(15, 15, 15, .2);
-    --text-transform: none;
-    --hp-ammo: #fff;
-    --bg-color: #fff;
-	--color-filtro: brightness(1) drop-shadow(5px 5px 0px var(--vida-balas1)) drop-shadow(3px -5px 2px var(--vida-balas2));
-    --vida-balas1: #047ade;
-    --vida-balas2: #8d1ad0;
-}
-
 @font-face {
     font-family: gamefont;
     src: url(https://raw.githubusercontent.com/South-Paw/typeface-vag-rounded/master/files/vag-rounded-400.woff2);
